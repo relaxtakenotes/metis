@@ -36,4 +36,4 @@ First pick your proxy DLL. Then you should copy it beside the generate_def.py sc
 
 ## Credits
 
-- Cleric - Majority of the exception handler
+- Cleric (https://github.com/returnaddress) - Majority of the exception handler
