@@ -1,0 +1,6 @@
+/metis/.cache
+/metis/bin
+metis/compile_commands.json
+metis/detailed-crash-logs.make
+metis/Makefile
+/metis/obj
